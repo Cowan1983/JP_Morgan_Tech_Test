@@ -5,6 +5,13 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JP_Morgan_Tech_Test", "JP_Morgan_Tech_Test\JP_Morgan_Tech_Test.csproj", "{41A76A60-5E74-4DB1-B9E2-9577E837839A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JP_Morgan_Tech_Test_Unit_Tests", "JP_Morgan_Tech_Test_Unit_Tests\JP_Morgan_Tech_Test_Unit_Tests.csproj", "{B3135822-246E-44FE-8DE7-BF6A86D1D300}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{568627AA-C62F-407B-ACBB-645C825E0FE2}"
+	ProjectSection(SolutionItems) = preProject
+		Test_Data.doc = Test_Data.doc
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{41A76A60-5E74-4DB1-B9E2-9577E837839A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41A76A60-5E74-4DB1-B9E2-9577E837839A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41A76A60-5E74-4DB1-B9E2-9577E837839A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3135822-246E-44FE-8DE7-BF6A86D1D300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3135822-246E-44FE-8DE7-BF6A86D1D300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3135822-246E-44FE-8DE7-BF6A86D1D300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3135822-246E-44FE-8DE7-BF6A86D1D300}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
